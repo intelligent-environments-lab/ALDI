@@ -3,7 +3,7 @@
 ## Project Description:
 
 A project focused on developing a data-driven algorithm for automated load profile discord identification (ALDI) in a large portfolio of buildings.
-![ALDI Overview](https://github.com/intelligent-environments-lab/aldi/aldi.png)
+![ALDI Overview](https://github.com/intelligent-environments-lab/ALDI/aldi.png)
 
 ## Project Collaborators:
 - Intelligent Environments Laboratory, UT Austin, (http://nagy.caee.utexas.edu)
