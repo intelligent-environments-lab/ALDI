@@ -2,7 +2,7 @@
 
 ## Project Description:
 
-A project focused on developing a data-driven algorithm for automated load profile discord identification (ALDI) in a large portfolio of buildings. Specifically, ALDI 1) uses the (matrix profile)[https://www.cs.ucr.edu/~eamonn/MatrixProfile.html] (MP) method to quantify the similarities of daily subsequences in time series meter data, 2) compares daily MP values with typical-day MP distributions using the Kolmogorov-Smirnov test, and 3) identifies daily load profile discords in a large building portfolio. We evaluate ALDI using the metering data of both an academic campus (UT Austin) and a residential neighborhood (Pecan street).
+A project focused on developing a data-driven algorithm for automated load profile discord identification (ALDI) in a large portfolio of buildings. Specifically, ALDI 1) uses the [matrix profile](https://www.cs.ucr.edu/~eamonn/MatrixProfile.html) (MP) method to quantify the similarities of daily subsequences in time series meter data, 2) compares daily MP values with typical-day MP distributions using the Kolmogorov-Smirnov test, and 3) identifies daily load profile discords in a large building portfolio. We evaluate ALDI using the metering data of both an academic campus (UT Austin) and a residential neighborhood (Pecan street).
 
 <img src="aldi.png" width=500>
 
